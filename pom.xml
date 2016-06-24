@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.scrum</groupId>
-	<artifactId>PSDJavaMhTest</artifactId>
-	<name>PSDJavaMhTest</name>
+	<artifactId>DosBox-men</artifactId>
+	<name>DosBox-men</name>
 	<packaging>jar</packaging>
 	<version>4.5</version>
 
