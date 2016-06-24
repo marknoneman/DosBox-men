@@ -1,0 +1,10 @@
+# language setting
+language: java
+
+# jdk tag
+jdk:
+   - openjdk7
+
+   bbuild:
+   ci:
+      - mvn install -DskipTests=true
