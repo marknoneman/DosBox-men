@@ -5,6 +5,6 @@ language: java
 jdk:
    - openjdk7
 
-   bbuild:
+   build:
    ci:
       - mvn install -DskipTests=true
